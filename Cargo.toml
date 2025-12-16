@@ -1,0 +1,9 @@
+[workspace]
+resolver = "3"
+members = [
+  "snitch-lib",
+  "snitch-aggregator",
+  "snitch-api",
+  "snitch-agent",
+  "snitch-cli",
+]
