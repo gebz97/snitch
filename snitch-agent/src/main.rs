@@ -1,4 +1,5 @@
 mod config;
+mod collect;
 
 use config::{load_config, AgentConfiguration};
 use anyhow::Result;

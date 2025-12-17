@@ -225,6 +225,7 @@ dependencies = [
  "clap",
  "serde",
  "serde_yaml",
+ "snitch-lib",
 ]
 
 [[package]]

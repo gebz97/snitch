@@ -1,0 +1,9 @@
+aggregator_host: "myagg.example.com"
+aggregator_port: 6553
+max_retries: 3
+pid_file: /var/run/snitch.pid
+log:
+  location:
+    type: file
+    path: ./snitch.log
+  level: warn

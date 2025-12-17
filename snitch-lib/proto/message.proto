@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+message MinutelyDelta {
+
+}
+
+message HourlyDelta {
+    
+}
+
+message SyncMessage {
+    bytes dmidecode = 1;
+    bytes procpuinfo = 2;
+    bytes 
+}

@@ -1,5 +1,0 @@
-aggregator_host: "myagg.example.com"
-aggregator_port: 6553
-max_retries: 3
-log_level: debug
-#abc: 123
